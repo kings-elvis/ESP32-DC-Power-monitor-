@@ -1,0 +1,8 @@
+latest_data.json
+measurement_history.csv
+*.tmp
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
