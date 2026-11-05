@@ -93,6 +93,32 @@ The system is a prototype for demonstrating embedded monitoring, fault detection
 - Test the system using a physical ESP32-C3.
 - Improve data storage and remote monitoring.
 
+## Project Screenshots
+
+### 1. Dashboard Overview
+![Dashboard Overview](screenshots/1.dashboard%20.png)
+
+### 2. Overvoltage Alert
+![Overvoltage Alert](screenshots/2.over%20voltage%20alert.png)
+
+### 3. Overcurrent Alert
+![Overcurrent Alert](screenshots/3.overcurrent%20alert.png)
+
+### 4. Combined Fault Alert
+![Combined Fault Alert](screenshots/4.both%20fault%20alert.png)
+
+### 5. Voltage Graph
+![Voltage Graph](screenshots/5.voltage%20graph.png)
+
+### 6. Current Graph
+![Current Graph](screenshots/6.current%20graph.png)
+
+### 7. Power Graph
+![Power Graph](screenshots/7.power%20graph.png)
+
+### 8. Measurement Distribution Table
+![Measurement Distribution Table](screenshots/8.distribution%20table.png)
+
 ## Author
 
 Elvis King'ori K.
